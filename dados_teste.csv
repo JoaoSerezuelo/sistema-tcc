@@ -1,0 +1,16 @@
+ALUNO,123456,João Silva,TCC1
+ALUNO,234567,Maria Oliveira,TCC1
+ALUNO,345678,Pedro Santos,TCC2
+ALUNO,456789,Ana Pereira,TCC2
+ALUNO,2498850,Tiago almeida,TCC1
+PROFESSOR,Carlos Ferreira,UTFPR
+PROFESSOR,Mariana Costa,UTFPR
+COORIENTADOR,Roberto Almeida,USP
+COORIENTADOR,Juliana Martins,UNICAMP
+TCC,TCC1,123456,Carlos Ferreira,,Desenvolvimento de um sistema de gerenciamento de TCCs
+TCC,TCC1,234567,Mariana Costa,Roberto Almeida,Aplicação de Inteligência Artificial em Sistemas Educacionais
+TCC,TCC2,345678,Carlos Ferreira,Juliana Martins,Implementação de Blockchain para Registro Acadêmico
+TCC,TCC2,456789,Mariana Costa,,Análise de Desempenho de Algoritmos de Machine Learning
+TCC,TCC1,2498850,Carlos Ferreira,,banco de dados
+BANCA,345678,Implementação de Blockchain para Registro Acadêmico,15/06/2023 14:00,Sala A-201,Carlos Ferreira,Juliana Martins,Roberto Almeida,Mariana Costa
+BANCA,456789,Análise de Desempenho de Algoritmos de Machine Learning,16/06/2023 10:00,https://meet.google.com/abc-defg-hij,Mariana Costa,Carlos Ferreira,Roberto Almeida,Juliana Martins

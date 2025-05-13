@@ -115,6 +115,3 @@ O sistema foi desenvolvido para tratar erros de entrada do usuário, exibindo me
 
 O sistema permite salvar os dados a qualquer momento através da opção no menu principal. Além disso, ao encerrar o sistema, ele pergunta se o usuário deseja salvar as alterações não salvas.
 
-## Autor
-
-Este sistema foi desenvolvido como um projeto de exemplo para demonstrar o uso de orientação a objetos em Python.
